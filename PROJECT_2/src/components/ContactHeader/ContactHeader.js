@@ -1,8 +1,8 @@
 import React from "react";
-import "./ContactHeader.css";
+import styles from "./ContactHeader.module.css";
 const ContactHeader = () => {
   return (
-    <div className="contact_section">
+    <div className={`${styles.contact_section}`}>
       <h1>CONTACT US</h1>
 
       <p>

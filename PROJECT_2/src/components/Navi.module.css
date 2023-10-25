@@ -1,4 +1,4 @@
-.container {
+.navi {
     padding:  8px;
     display: flex;
     height: 72px;
@@ -6,7 +6,7 @@
     justify-content: space-between;
   }
   
-  .container ul {
+  .navi ul {
     display: flex;
     gap: 24px;
     list-style-type: none;
